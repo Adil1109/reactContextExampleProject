@@ -1,0 +1,14 @@
+div {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav {
+  height: 100px;
+  width: 100%;
+  background-color: #223344;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
